@@ -68,8 +68,8 @@ export default function Home() {
         width: WIDTH,
         height: HEIGHT,
         display: 'flex',
-        justifyContent: 'center',
         flexWrap: 'wrap',
+        margin: '0 auto',
       }}
     >
       {pieces}
